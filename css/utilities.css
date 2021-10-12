@@ -26,12 +26,17 @@
 background: transparent;
 border-color: var(--primary);
 color: var(--primary);
+font-family: "Lato", sans-serif;
+
 }
 
 .btn-secondary{
     background: transparent;
     border-color: var(--primary);
     color: var(--primary);
+    text-decoration: none;
+  font-family: "Lato", sans-serif;
+
 }
 .btn-secondary:hover{
     background-color: var(--primary);
